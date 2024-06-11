@@ -43,7 +43,7 @@
 		"turbo": "^1.10.2",
 		"turbo-ignore": "^0.3.0",
 		"typescript": "^5.0.4",
-		"vite": "^4.3.9"
+		"vite": "^4.5.3"
 	},
 	"overrides": {
 		"vite-plugin-svgr": "https://github.com/spacedriveapp/vite-plugin-svgr#cb4195b69849429cdb18d1f12381676bf9196a84",
