@@ -44,7 +44,7 @@
 		"react": "18.2.0",
 		"react-hook-form": "^7.43.9",
 		"react-native": "0.71.3",
-		"react-native-document-picker": "^8.2.1",
+		"react-native-document-picker": "^8.2.2",
 		"react-native-fs": "^2.20.0",
 		"react-native-gesture-handler": "~2.9.0",
 		"react-native-popup-menu": "^0.16.1",
@@ -57,7 +57,7 @@
 		"use-count-up": "^3.0.1",
 		"use-debounce": "^9.0.4",
 		"valtio": "^1.10.4",
-		"zod": "^3.21.4"
+		"zod": "^3.22.3"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.22.1",
